@@ -1,0 +1,5 @@
+# .streamlit/config.toml
+[server]
+maxUploadSize = 1024       # 1 GB de upload por arquivo
+maxMessageSize = 1024      # 1 GB para mensagens via WebSocket
+            
